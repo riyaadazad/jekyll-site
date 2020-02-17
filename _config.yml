@@ -1,9 +1,10 @@
-# title: 
-# email: 
-# description: 
+title: Template Repository 
+email: email@example.com 
+description: > 
 
 plugins: 
     - jekyll-feed
     - jekyll-sitemap
     - jekyll-seo-tag
+    
 theme: jekyll-theme-cayman
